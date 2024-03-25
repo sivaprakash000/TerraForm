@@ -1,0 +1,3 @@
+output "details" {
+    values= "this is the process of creating the instance"
+}
